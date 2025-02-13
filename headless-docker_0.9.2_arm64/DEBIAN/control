@@ -1,0 +1,8 @@
+Package: headless-osmc
+Source: osmc
+Version: 0.92
+Architecture: arm64
+Maintainer: Joakim
+Depends: fzf, bat, tldr, zoxide, ripgrep, mc, screen, libvncserver1, aarch64-aml-vnc-app-osmc
+Description: A deb package to install docker and various CLI utils
+ lazydocker, fuzzyfinder, bat, eza,tldr,zoxide, ripgrep, mc and screen.
